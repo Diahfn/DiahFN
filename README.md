@@ -16,18 +16,27 @@
 
 ## 👩‍💻 About Me
 
-Hello! I'm **Diah Fitrianingrum**, a **Full Stack Developer** with experience building applications and designing system integrations.
+Hi, I'm **Diah Fitrianingrum** — a **Full Stack Developer** passionate about building scalable applications and enterprise integration solutions.
 
-I have experience in:
-
-- 🚀 Full Stack Web Development
-- 🔗 Enterprise System Integration
-- 📨 SOAP / REST API Integration
-- 📄 XML Processing
+🔗 **Integration Experience**
 - ⚙️ IBM App Connect Enterprise (ACE)
-- 🗄 Database Development with Oracle
+- 🚪 IBM API Connect (APIC)
+- 🔶 Software AG webMethods
+- 🌐 SOAP / REST API
+- 📄 XML Transformation
+- 🔄 Enterprise Service Orchestration
 
-Currently improving my skills in modern web technologies and scalable backend architecture.
+💻 **Full Stack Development**
+- ⚛️ React & Next.js
+- 📘 TypeScript & JavaScript
+- 🟢 Node.js Backend Services
+- 🗄️ Oracle Database & SQL
+- 🔌 API Development & Integration
+
+🌱 **Currently expanding my skills in**
+- 🏗️ Scalable backend architecture
+- ☁️ Cloud-ready applications
+- 🚀 Modern software development practices
 
 ---
 
@@ -57,17 +66,23 @@ Currently improving my skills in modern web technologies and scalable backend ar
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 
-## 🔗 Integration & API
+## 🔗 Integration, API & Enterprise Middleware
 
 <p>
 
-<img src="https://img.shields.io/badge/IBM_App_Connect-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM_App_Connect_Enterprise-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IBM_API_Connect-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Software_AG_webMethods-FF6600?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ESQL-007396?style=for-the-badge"/>
 
 </p>
 
@@ -86,12 +101,13 @@ Currently improving my skills in modern web technologies and scalable backend ar
 
 ### 🔹 Integration Engineer
 
-- Developed enterprise integration flow using **IBM App Connect Enterprise**
-- Built SOAP based integrations using XML messages
-- Created data transformation logic using ESQL
-- Integrated backend services with external systems
-- Worked with Oracle database operations
-
+- Developed and maintained enterprise integration services
+- Built API integrations using IBM App Connect Enterprise and IBM API Connect
+- Worked with Software AG webMethods integration platform
+- Designed SOAP and REST API communication flows
+- Performed XML transformation and message mapping
+- Developed integration logic using ESQL
+- Integrated services with Oracle Database
 
 ### 🔹 Full Stack Developer
 
