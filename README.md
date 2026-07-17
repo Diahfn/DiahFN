@@ -1,146 +1,159 @@
-<h1 align="center">Hi 👋, I'm Diah Fitrianingrum</h1>
+# 👋 Hi, I'm Diah Fitrianingrum
 
-<h3 align="center">
-Full Stack Developer • Backend Enthusiast • Integration Engineer
-</h3>
+<div align="center">
 
-<p align="center">
-Building scalable web applications and enterprise integrations.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=220&section=header&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
----
+</div>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Integration+Engineer;IBM+App+Connect+Developer;Building+Scalable+Applications" />
+
+</div>
+
 
 ## 👩‍💻 About Me
 
-I'm a Full Stack Developer with experience developing web applications and integrating enterprise systems.
+Hello! I'm **Diah Fitrianingrum**, a **Full Stack Developer** with experience building applications and designing system integrations.
 
-I have hands-on experience building REST APIs, developing frontend applications, working with Oracle databases, and implementing enterprise integrations using IBM App Connect Enterprise (ACE), SOAP, XML, and REST services.
+I have experience in:
 
-Currently I'm expanding my expertise in modern backend development with Go and cloud-native technologies while continuously improving my frontend skills using React and TypeScript.
+- 🚀 Full Stack Web Development
+- 🔗 Enterprise System Integration
+- 📨 SOAP / REST API Integration
+- 📄 XML Processing
+- ⚙️ IBM App Connect Enterprise (ACE)
+- 🗄 Database Development with Oracle
+
+Currently improving my skills in modern web technologies and scalable backend architecture.
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
-### Frontend
+
+## 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
 </p>
 
-### Backend
+
+## ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,golang" />
 </p>
 
-### Enterprise Integration
 
-<img src="https://img.shields.io/badge/IBM_App_Connect_Enterprise-052FAD?style=for-the-badge&logo=ibm&logoColor=white">
-
-<img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge">
-
-### Database
+## 🗄 Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-### Tools
+
+## 🔗 Integration & API
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+
+<img src="https://img.shields.io/badge/IBM_App_Connect-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
 </p>
 
----
 
-## 💼 What I Do
+## 🧰 Tools
 
-✔ Develop responsive web applications
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+</p>
 
-✔ Build RESTful APIs
-
-✔ Design database queries and optimization
-
-✔ Integrate enterprise systems using SOAP & REST
-
-✔ XML Transformation
-
-✔ API Testing using Postman
-
-✔ Oracle SQL Development
-
-✔ IBM App Connect Enterprise Development
 
 ---
 
-## 📂 Featured Projects
+# 💼 Experience Highlights
 
-### 🛒 E-Commerce Full Stack
 
-React + Node.js + PostgreSQL
+### 🔹 Integration Engineer
 
-- Authentication
-- Shopping Cart
-- Order Management
-- Dashboard
+- Developed enterprise integration flow using **IBM App Connect Enterprise**
+- Built SOAP based integrations using XML messages
+- Created data transformation logic using ESQL
+- Integrated backend services with external systems
+- Worked with Oracle database operations
 
----
 
-### 📦 Inventory Management System
+### 🔹 Full Stack Developer
 
-React + Express + PostgreSQL
+- Developed web applications using modern frontend frameworks
+- Built REST API services
+- Designed database structures
+- Implemented business logic between frontend and backend
 
-- CRUD
-- Dashboard
-- Reports
-- Authentication
 
 ---
 
-### 🔄 Enterprise Integration
+# 🚀 Featured Projects
 
-IBM App Connect Enterprise
 
-- SOAP Services
-- REST Services
-- XML Mapping
-- Oracle Database Integration
+## 🔗 Enterprise Integration Service
 
----
+**Technology**
 
-### 📊 Dashboard Application
+`IBM ACE` `SOAP` `XML` `Oracle`
 
-React + TypeScript
+Description:
 
-- Charts
-- Authentication
-- Responsive UI
+> Enterprise integration service for exchanging data between systems using SOAP/XML messaging.
+
 
 ---
 
-## 🌱 Currently Learning
+## 🌐 Full Stack Application
 
-- Golang
-- Docker
-- Kubernetes
-- Clean Architecture
-- Microservices
+**Technology**
 
----
+`React` `Node.js` `Oracle`
 
-## 📫 Connect with me
+Description:
 
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
+> Full stack application implementing frontend interface, backend API, and database integration.
+
 
 ---
 
-⭐ Always learning, building, and improving.
+# 📫 Connect With Me
+
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/diah-fitrianingrum/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:diahfn26@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=DiahFN73&style=for-the-badge&color=blue"/>
+
+</div>
