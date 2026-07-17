@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi 👋 I'm Diah Fitrianingrum
+
+- 💼 Integration Developer| Fullstack Developer
+- 🌱 Currently learning Golang & Microservices
 
 <!--
 **Diahfn/DiahFN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
