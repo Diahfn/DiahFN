@@ -96,31 +96,49 @@ Hi, I'm **Diah Fitrianingrum** — a **Full Stack Developer** passionate about b
 
 ---
 
+# 📊 GitHub Stats
+
+<div align="center">
+<!--
+<img src="https://github-readme-stats.vercel.app/api?username=DiahFN73&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiahFN73&layout=compact&hide_border=true" height="165"/>
+-->
+<img src="https://streak-stats.demolab.com/?user=DiahFN73&hide_border=true" height="165"/>
+
+</div>
+<!--
+> ℹ️ Ganti `DiahFN73` di setiap URL di atas kalau username GitHub kamu berbeda.
+
+---
+-->
 # 💼 Experience Highlights
 
 
 ### 🔹 Integration Engineer
 
-- Developed and maintained enterprise integration services
-- Built API integrations using IBM App Connect Enterprise and IBM API Connect
-- Worked with Software AG webMethods integration platform
-- Designed SOAP and REST API communication flows
-- Performed XML transformation and message mapping
-- Developed integration logic using ESQL
-- Integrated services with Oracle Database
+- Designed and maintained enterprise integration services for nationwide-scale port logistics and terminal operations
+- Built API integrations using IBM App Connect Enterprise (ACE) and IBM API Connect (APIC)
+- Worked with the Software AG webMethods platform for cross-system data exchange
+- Designed SOAP and REST API communication flows between internal and external systems
+- Performed XML message transformation and mapping for system interoperability
+- Developed integration logic using ESQL within message flows
+- Integrated services with Oracle Database, including staging tables and data conversion procedures
 
 ### 🔹 Full Stack Developer
 
-- Developed web applications using modern frontend frameworks
-- Built REST API services
-- Designed database structures
-- Implemented business logic between frontend and backend
+- Developed web applications using modern frontend frameworks (React)
+- Built REST API services with Node.js
+- Designed database structures to support application requirements
+- Implemented business logic connecting frontend and backend
 
 
 ---
 
 # 🚀 Featured Projects
 
+<!--
+Section ini sengaja di-nonaktifkan sementara sampai ada project publik yang siap dipajang
+(repo publik, demo, atau case study yang boleh digeneralisasi tanpa data sensitif klien).
 
 ## 🔗 Enterprise Integration Service
 
@@ -144,7 +162,9 @@ Description:
 Description:
 
 > Full stack application implementing frontend interface, backend API, and database integration.
+-->
 
+> 🚧 Currently preparing a few projects to showcase here. Check back later!
 
 ---
 
