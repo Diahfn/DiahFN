@@ -21,13 +21,12 @@ Hi, I'm **Diah Fitrianingrum** — a **Full Stack Developer** passionate about b
 🔗 **Integration Experience**
 - ⚙️ IBM App Connect Enterprise (ACE)
 - 🚪 IBM API Connect (APIC)
-- 🔶 Software AG webMethods
 - 🌐 SOAP / REST API
 - 📄 XML Transformation
 - 🔄 Enterprise Service Orchestration
 
 💻 **Full Stack Development**
-- ⚛️ React & Next.js
+- ⚛️ React 
 - 📘 TypeScript & JavaScript
 - 🟢 Node.js Backend Services
 - 🗄️ Oracle Database & SQL
@@ -46,7 +45,7 @@ Hi, I'm **Diah Fitrianingrum** — a **Full Stack Developer** passionate about b
 ## 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
 </p>
 
 
@@ -73,8 +72,6 @@ Hi, I'm **Diah Fitrianingrum** — a **Full Stack Developer** passionate about b
 <img src="https://img.shields.io/badge/IBM_App_Connect_Enterprise-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/IBM_API_Connect-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Software_AG_webMethods-FF6600?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge"/>
 
@@ -118,7 +115,6 @@ Hi, I'm **Diah Fitrianingrum** — a **Full Stack Developer** passionate about b
 
 - Designed and maintained enterprise integration services for nationwide-scale port logistics and terminal operations
 - Built API integrations using IBM App Connect Enterprise (ACE) and IBM API Connect (APIC)
-- Worked with the Software AG webMethods platform for cross-system data exchange
 - Designed SOAP and REST API communication flows between internal and external systems
 - Performed XML message transformation and mapping for system interoperability
 - Developed integration logic using ESQL within message flows
