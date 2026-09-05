@@ -1,191 +1,94 @@
 # 👋 Hi, I'm Diah Fitrianingrum
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=220&section=header&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=220&section=header&text=Full%20Stack%20Developer&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </div>
-
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Integration+Engineer;IBM+App+Connect+Developer;Building+Scalable+Applications" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Integration+Engineer;IBM+App+Connect+Developer;Golang+%26+Node.js+Specialist" />
 </div>
-
 
 ## 👩‍💻 About Me
 
-Hi, I'm **Diah Fitrianingrum** — a **Full Stack Developer** passionate about building scalable applications and enterprise integration solutions.
+Hi, I'm **Diah Fitrianingrum** a **Full Stack Developer** & **Integration Engineer** with a deep focus on building scalable enterprise solutions. I bridge the gap between complex middleware systems and modern user-facing applications.
 
-🔗 **Integration Experience**
-- ⚙️ IBM App Connect Enterprise (ACE)
-- 🚪 IBM API Connect (APIC)
-- 🌐 SOAP / REST API
-- 📄 XML Transformation
-- 🔄 Enterprise Service Orchestration
+### 🔗 Integration & Middleware Expertise
+- ⚙️ **IBM Ecosystem:** App Connect Enterprise (ACE) & API Connect (APIC)
+- 🔄 **Enterprise Orchestration:** Service bus, message flows, and ESQL logic
+- 🌐 **Communication Protocols:** Architecting SOAP, RESTful services, and XML transformations
+- 🏗️ **Logistics Systems:** Experience in national-scale terminal and port operations integration
 
-💻 **Full Stack Development**
-- ⚛️ React 
-- 📘 TypeScript & JavaScript
-- 🟢 Node.js Backend Services
-- 🗄️ Oracle Database & SQL
-- 🔌 API Development & Integration
-
-🌱 **Currently expanding my skills in**
-- 🏗️ Scalable backend architecture
-- ☁️ Cloud-ready applications
-- 🚀 Modern software development practices
+### 💻 Modern Web Development
+- ⚛️ **Frameworks:** Next.js (React Framework), React
+- 📘 **Languages:** TypeScript & JavaScript
+- 🟢 **Backend:** Node.js, Express, Golang
+- 🗄️ **Database:** Oracle DB (SQL/Procedures), PostgreSQL, MySQL
 
 ---
 
 # 🛠 Tech Stack
 
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
-</p>
-
-
-## ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,golang" />
-</p>
-
-
-## 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-
-## 🔗 Integration, API & Enterprise Middleware
-
-<p>
-
-<img src="https://img.shields.io/badge/IBM_App_Connect_Enterprise-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/IBM_API_Connect-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SOAP-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/XML-E44D26?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ESQL-007396?style=for-the-badge"/>
-
-</p>
-
-
-## 🧰 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center" width="220"><strong>Frontend & Frameworks</strong></td>
+    <td align="center" width="200"><strong>Backend</strong></td>
+    <td align="center" width="200"><strong>Middleware</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" /><br/>
+      <img src="https://skillicons.dev/icons?i=js,html,css" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,golang" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/IBM_ACE-052FAD?style=flat-square&logo=ibm&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/IBM_APIC-052FAD?style=flat-square&logo=ibm&logoColor=white"/><br/>
+      <img src="https://img.shields.io/badge/ESQL-007396?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analysis
 
 <div align="center">
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=DiahFN73&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiahFN73&layout=compact&hide_border=true" height="165"/>
--->
-<img src="https://streak-stats.demolab.com/?user=DiahFN73&hide_border=true" height="165"/>
-
+  <img src="https://streak-stats.demolab.com/?user=Diahfn&hide_border=true&theme=transparent&stroke=2563EB&ring=7c3aed" height="165" alt="streak" />
 </div>
-<!--
-> ℹ️ Ganti `DiahFN73` di setiap URL di atas kalau username GitHub kamu berbeda.
-
----
--->
-# 💼 Experience Highlights
-
-
-### 🔹 Integration Engineer
-
-- Designed and maintained enterprise integration services for nationwide-scale port logistics and terminal operations
-- Built API integrations using IBM App Connect Enterprise (ACE) and IBM API Connect (APIC)
-- Designed SOAP and REST API communication flows between internal and external systems
-- Performed XML message transformation and mapping for system interoperability
-- Developed integration logic using ESQL within message flows
-- Integrated services with Oracle Database, including staging tables and data conversion procedures
-
-### 🔹 Full Stack Developer
-
-- Developed web applications using modern frontend frameworks (React)
-- Built REST API services with Node.js
-- Designed database structures to support application requirements
-- Implemented business logic connecting frontend and backend
-
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Key Experiences
 
-<!--
-Section ini sengaja di-nonaktifkan sementara sampai ada project publik yang siap dipajang
-(repo publik, demo, atau case study yang boleh digeneralisasi tanpa data sensitif klien).
+#### 🔹 Integration Engineer (Port & Logistics)
+*National Scale Project*
+- Orchestrated data exchange between terminal systems using **IBM ACE**.
+- Handled high-traffic **SOAP/XML** transformations and **Oracle** data conversion procedures.
+- Ensured 24/7 interoperability for critical logistics workflows.
 
-## 🔗 Enterprise Integration Service
-
-**Technology**
-
-`IBM ACE` `SOAP` `XML` `Oracle`
-
-Description:
-
-> Enterprise integration service for exchanging data between systems using SOAP/XML messaging.
-
+#### 🔹 Full Stack Developer
+- Built modern, responsive interfaces using **React**.
+- Developed high-performance backend services using **Node.js** and **Go**
 
 ---
 
-## 🌐 Full Stack Application
+# 🚀 Projects (Coming Soon)
 
-**Technology**
-
-`React` `Node.js` `Oracle`
-
-Description:
-
-> Full stack application implementing frontend interface, backend API, and database integration.
--->
-
-> 🚧 Currently preparing a few projects to showcase here. Check back later!
+> 🚧 I'm currently migrating some enterprise-level integration case studies into sanitized public repositories. Stay tuned!
 
 ---
 
-# 📫 Connect With Me
-
+# 📫 Let's Connect!
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/diah-fitrianingrum/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:diahfn26@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/diah-fitrianingrum/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:diahfn26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=DiahFN73&style=for-the-badge&color=blue"/>
-
-</div>
+<p align="center"><i>"Building bridges between data and users, one line of code at a time."</i></p>
